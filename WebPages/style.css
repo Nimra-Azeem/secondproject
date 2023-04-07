@@ -1,0 +1,11 @@
+p{
+    font-family: arial;
+    font-size: 1em;
+    background-color: grey;
+    color: navy;
+    margin: auto;
+}
+table{
+    background-color: lavender;
+    width: 100%
+}
